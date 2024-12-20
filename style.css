@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+.h3 {
+    font-family: 'Inter', sans-serif;
+size: px;
+
+}
+.h6 {
+    font-family: 'Inter', sans-serif;
+size: px;
+
+}
+
+.h1 {
+
+size: px;
+width: 879px;
+    height: 282px;
+    font-family: 'Inter', sans-serif; /* Certifique-se de que a fonte Inter está disponível */
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 60.51px;
+    text-align: left;
+    text-decoration: none; /* Evita sublinhado */
+    margin: 0; /* Remove margens padrão */
+
+}
+
+
+#error-message {
+    color: #ff4d4f;
+    background-color: #fff0f1;
+    border: 1px solid #ff4d4f;
+    padding: 10px;
+    border-radius: 8px;
+    max-width: 600px;
+    margin: 10px auto;
+    display: none; /* Oculto por padrão */
+    font-family: 'Inter', sans-serif; }
+
+#Acessar {
+ 
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+}
+
+
+
+
+.imagemceu{
+    /* image 2 */
+
+position: absolute;
+width: 300px;
+height: 197px;
+left: 1133px;
+top: 177px;
+
+
+
+}
+
+body{
+    width: 100%;
+    background-color: #F2F2F2;
+    font-family: 'Inter', sans-serif;
+    line-height: 60.51px
+}
+
+.form1{
+    
+    border-radius: 30px;
+    background-color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
+}
+
+
+ 
+
+        .form-container {
+            background: #fff;
+            padding: 20px 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 400px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-left: 700px;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .form-container h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            font-size: 1.5rem;
+            color: #333;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .form-container label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+            color: #555;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .form-container input {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 1rem;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .form-container button {
+            width: 100%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: white;
+            font-size: 1rem;
+            cursor: pointer;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .form-container button:hover {
+            background-color: #0056b3;
+        }
+
+        .form-container .additional-info {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .form-container .additional-info input {
+            width: 48%;
+            font-family: 'Inter', sans-serif;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9rem;
+            color: #777;
+            font-family: 'Inter', sans-serif;
+        }
+
+        footer a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        .btn btn-primary w-100 mt-5 fs-5 {
+            font-size: 32px;
+            font-family: 'Inter', sans-serif;
+        }
+
+    .table-container {
+      max-height: 1000px;
+        max-width: 785px; /* Largura máxima */
+      margin: auto; /* Centraliza horizontalmente */
+      border-radius: 20px; /* Borda arredondada */
+      overflow: hidden; /* Garante bordas aplicadas */
+     
+    }
+    .table-header {
+        background-color: #007bff; /* Cor azul Bootstrap */
+        color: white; /* Texto branco */
+        font-weight: bold; /* Negrito */
+        height: 50px;
+    }
+    .table-body td {
+      font-weight: bold;
+      height: 50px;
+    }
+
+    .cortabela{
+        background-color:#0C70F2 ;
+    }
