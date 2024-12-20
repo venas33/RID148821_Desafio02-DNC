@@ -11,4 +11,4 @@ Funcionalidades:
 - ViaCEP: Para consulta de endereços a partir do CEP.
 - Open Meteo: Para obtenção de dados meteorológicos.
 
-link: https://dnswather.netlify.app/
+Entre no link do site: https://dnswather.netlify.app/
